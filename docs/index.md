@@ -2,7 +2,6 @@
 UguisuはJavaScript上で動作するプログラミング言語です。  
 静的な型チェック機能を備えています。  
 
-コード例
 ```text
 fn calc(x: number): number {
     if x == 0 {

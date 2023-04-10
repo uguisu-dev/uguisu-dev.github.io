@@ -1,5 +1,2 @@
-- Uguisu  
-  https://github.com/uguisu-dev/uguisu
-
-- A vscode extension of Uguisu  
-  https://github.com/uguisu-dev/vscode-uguisu
+- [Uguisu](https://github.com/uguisu-dev/uguisu)
+- [Uguisu syntax support for vscode](https://github.com/uguisu-dev/vscode-uguisu)

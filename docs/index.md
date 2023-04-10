@@ -1,4 +1,29 @@
 # Uguisu
+UguisuはJavaScript上で動作するプログラミング言語です。  
+静的な型チェック機能を備えています。  
+
+コード例
+```text
+fn calc(x: number): number {
+    if x == 0 {
+        return 1;
+    } else {
+        return calc(x - 1) * 2;
+    }
+}
+
+fn main() {
+    var value = 10;
+    console.writeNum(calc(value));
+}
+```
+
+## インストール
+npmを使ってインストールしてください。
+```
+npm install -g uguisu-js
+```
+
 ## リンク
 - [Uguisu](https://github.com/uguisu-dev/uguisu)
 - [Uguisu syntax support for vscode](https://github.com/uguisu-dev/vscode-uguisu)

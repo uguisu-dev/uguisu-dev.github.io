@@ -17,6 +17,9 @@ fn main() {
 }
 ```
 
+コード例の一覧はこちら。
+https://github.com/uguisu-dev/uguisu/tree/master/examples 
+
 ## インストール
 npmを使ってインストールできます。
 ```

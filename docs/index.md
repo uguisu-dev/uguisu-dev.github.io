@@ -19,7 +19,7 @@ fn main() {
 ```
 
 ## インストール
-npmを使ってインストールしてください。
+npmを使ってインストールできます。
 ```
 npm install -g uguisu-js
 ```

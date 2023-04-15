@@ -1,4 +1,4 @@
-# Uguisu website
+# Website
 https://uguisu-dev.github.io/ 
 
 ## License
